@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form mat-form-field {
+  min-width: 360px;
+}
+
+h2 {
+  margin-bottom: 8px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
